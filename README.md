@@ -17,7 +17,7 @@ I have experience in building full-stack applications, integrating AI solutions,
  ⚡ Highlights
 
 - 🌟 **Young Innovator Internship Challenge 2.0 Participant**  
-   I was a part of this exciting internship program hosted by **Scaler School of Technology** where I learned and developed projects involving [briefly mention the technologies or tasks from the internship].
+   I was a part of this exciting internship program hosted by **Scaler School of Technology** where I learned and developed projects involving ChatBot, Chromme Extension etc.
 
 - 🎨 **Website Development Enthusiast**  
    I enjoy building attractive and interactive websites. My latest project is a **clone of the Kingfisher brand** using **HTML, CSS, JavaScript**, and **J Sharp for animations**.
