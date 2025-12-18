@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul Kumar
 
-I'm a Computer Science undergraduate and a frontend-focused developer who enjoys building practical tools, clean user interfaces, and developer-centric products.
+I'm a Computer Science undergraduate and a MERN-focused developer who enjoys building practical tools, clean user interfaces, and developer-centric products.
 
 Currently, I work extensively with **React.js**, **JavaScript**, and modern web technologies, and I actively explore **AI-powered tooling** and **open-source development**.
 
