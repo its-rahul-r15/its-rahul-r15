@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul Kumar
+# 👋 Hi, I'm Rahul Sharma
 
 I'm a Computer Science undergraduate and a MERN-focused developer who enjoys building practical tools, clean user interfaces, and developer-centric products.
 
@@ -33,19 +33,3 @@ Currently, I work extensively with **React.js**, **JavaScript**, and modern web 
 - Advanced React patterns & performance
 - Data Structures & Algorithms
 - System design fundamentals
-
----
-
-## 🛠️ Projects
-
-### 🔹 repo-docgen
-Automatic documentation generator that analyzes repositories and produces structured README files.
-
-- Detects project architecture
-- Identifies tech stack automatically
-- Built as an npm CLI tool
-
-👉 Try it using:
-```bash
-npx repo-docgen
-
