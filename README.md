@@ -30,21 +30,30 @@ const rahul = {
 ⚙️ Backend & Tools
 <p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> </p>
 
-🚀 What I Do
-<table> <tr> <td width="50%" valign="top">
-🎯 Core Expertise
-
-🔧 Build modern, responsive web apps
-
-⚡ Develop developer tools & utilities
-
-🏗️ Production-ready coding mindset
-
-🤖 AI integration in web products
-
-🎨 Clean & intuitive UI design
-
-</td> <td width="50%" valign="top">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Expertise</h3>
+      <ul>
+        <li>Build modern, responsive web apps</li>
+        <li>Develop developer tools & utilities</li>
+        <li>Production-ready coding mindset</li>
+        <li>AI integration in web products</li>
+        <li>Clean & intuitive UI design</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Currently Learning</h3>
+      <ul>
+        <li>Advanced React & performance</li>
+        <li>Data Structures & Algorithms</li>
+        <li>System design fundamentals</li>
+        <li>Full-stack architecture</li>
+        <li>DevOps & deployment basics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 📚 Currently Learning
 
