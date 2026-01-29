@@ -17,7 +17,7 @@ const rahul = {
   architecture: ["MERN Stack", "SPA", "REST APIs"],
   currentFocus: "Advanced React Patterns & AI Integration",
   funFact: "I turn coffee ☕ into code 💻"
-};
+}; ```
 
 🛠️ Tech Stack
 Frontend
@@ -44,4 +44,4 @@ Project	Description	Tech Stack
 📫 Let's Connect!
 <p align="center"> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/your-handle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://portfolio-link.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views" /> </p><p align="center"> <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i> </p> ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views" /> </p><p align="center"> <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i> </p> 
