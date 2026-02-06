@@ -48,19 +48,5 @@ const rahul = {
 - 🔗 Full-stack architecture
 - ⚙️ DevOps & deployment basics
 
-
-📚 Currently Learning
-
-🧠 Advanced React & performance
-
-📊 Data Structures & Algorithms
-
-🏛️ System design fundamentals
-
-🔗 Full-stack architecture
-
-⚙️ DevOps & deployment basics
-
-
 📫 Let's Connect!
 <p align="center"> <a href="mailto:rahulsharma096115@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/rahul-sharma-5a19a8293"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://rahulsharmadev.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> </p>
