@@ -48,5 +48,11 @@ const rahul = {
 - 🔗 Full-stack architecture
 - ⚙️ DevOps & deployment basics
 
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=its_rahul_r15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=its_rahul_r15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=its_rahul_r15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 📫 Let's Connect!
 <p align="center"> <a href="mailto:rahulsharma096115@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/rahul-sharma-5a19a8293"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://rahulsharmadev.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> </p>
