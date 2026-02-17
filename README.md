@@ -19,7 +19,7 @@ const rahul = {
   frontend: ["React", "HTML", "CSS", "Tailwind"],
   backend: ["Node.js", "Express", "MongoDB", "Firebase"],
   architecture: ["MERN Stack", "SPA", "REST APIs"],
-  currentFocus: "Advanced React Patterns & AI Integration",
+  currentFocus: "Advanced Backend",
   funFact: "I turn coffee ☕ into code 💻"
 };
 ```
