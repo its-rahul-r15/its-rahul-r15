@@ -52,17 +52,6 @@
 
 ---
 
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=its-rahul-r15&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 <div align="center">
 
 *✨ "Code is not just syntax — it's the language of innovation."*
