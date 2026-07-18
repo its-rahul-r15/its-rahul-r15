@@ -6,13 +6,6 @@
 
 <br/>
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sharma-5a19a8293/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailtorahulkumarsharma776194@gmail.com)
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=its-rahul-r15&color=F6C90E&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
